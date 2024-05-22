@@ -1,0 +1,19 @@
+{
+  "name": "alurageek",
+  "version": "1.0.0",
+  "description": "Challenge AluraGeek de la formacion Front End de Oracle ONE",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./database/db.json --port 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}

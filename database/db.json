@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "titulo": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "precio": 109.95,
+      "imagen": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "Mens Casual Premium Slim Fit T-Shirts ",
+      "precio": 22.3,
+      "imagen": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Mens Cotton Jacket",
+      "precio": 55.99,
+      "imagen": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Mens Casual Slim Fit",
+      "precio": 15.99,
+      "imagen": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "precio": 695,
+      "imagen": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 6,
+      "titulo": "Solid Gold Petite Micropave ",
+      "precio": 168,
+      "imagen": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 7,
+      "titulo": "White Gold Plated Princess",
+      "precio": 9.99,
+      "imagen": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 8,
+      "titulo": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "precio": 10.99,
+      "imagen": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+      "id": 9,
+      "titulo": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+      "precio": 999.99,
+      "imagen": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "id": 10,
+      "titulo": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "precio": 109,
+      "imagen": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    }
+  ]
+}
