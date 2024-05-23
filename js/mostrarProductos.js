@@ -11,8 +11,8 @@ function addCards(titulo, precio, imagen) {
   class="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80"
 >
   <img
-    src="${imagen}"
-    alt="Front of men&#039;s Basic Tee in black."
+    src="${imagen ? imagen : ""}"
+    alt="${imagen ? "hay imagen" : "no hay imagen"}"
     class="h-full w-full object-cover object-center lg:h-full lg:w-full"
   />
 </div>
@@ -21,7 +21,7 @@ function addCards(titulo, precio, imagen) {
     <h3 class="font-semibold">
       <a href="#">
         <span aria-hidden="true" class="absolute inset-0"></span>
-        ${titulo}
+        ${titulo ? titulo : "No hay titulo"}
       </a>
     </h3>
   </div>
